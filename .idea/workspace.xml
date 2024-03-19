@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3881fee-18f3-4cc9-ba82-9fe4ddd81502" name="Changes" comment="asm" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lab1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dP5XJo5hvR04oU1ljnOpaCk8rO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Nodejs/WEB18303_NodeJS_LeNguyenChiNguyen",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PhpStorm 2023.2.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\typescipt\WD18303_TypeScript_LeNguyenChiNguyen" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3881fee-18f3-4cc9-ba82-9fe4ddd81502" name="Changes" comment="" />
+      <created>1709896910308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709896910308</updated>
+      <workItem from="1709896911413" duration="223000" />
+      <workItem from="1709897175496" duration="222000" />
+      <workItem from="1709973351696" duration="19000" />
+      <workItem from="1710324136964" duration="176000" />
+      <workItem from="1710673809617" duration="52000" />
+      <workItem from="1710673874589" duration="91000" />
+      <workItem from="1710674133253" duration="15000" />
+    </task>
+    <task id="LOCAL-00001" summary="Lab1">
+      <option name="closed" value="true" />
+      <created>1709896960591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709896960591</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lab2">
+      <option name="closed" value="true" />
+      <created>1710324182454</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710324182454</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lab2">
+      <option name="closed" value="true" />
+      <created>1710324199464</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710324199464</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lab2">
+      <option name="closed" value="true" />
+      <created>1710324223784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710324223784</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lab2">
+      <option name="closed" value="true" />
+      <created>1710324246203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710324246203</updated>
+    </task>
+    <task id="LOCAL-00006" summary="asm">
+      <option name="closed" value="true" />
+      <created>1710673923715</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710673923715</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Lab2-1,2/app.js" />
+        <option value="$PROJECT_DIR$/Lab2-3/app.js" />
+        <option value="$PROJECT_DIR$/ASM/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab1" />
+    <MESSAGE value="Lab2" />
+    <MESSAGE value="asm" />
+    <option name="LAST_COMMIT_MESSAGE" value="asm" />
+  </component>
+</project>
