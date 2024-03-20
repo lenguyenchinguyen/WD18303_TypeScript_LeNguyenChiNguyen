@@ -79,3 +79,20 @@ function sumNum(...numbers) {
 const sum4 = sumNum(1, 2, 3); // sum1: 6
 const sum5 = sumNum(1, 2, 3, 4, 5); // sum2: 15
 console.log(sum4, sum5);
+//function & void
+console.log("Function & Void");
+const mess = () => {
+    console.log("hello world");
+};
+mess();
+// never & void
+console.log("void là kiểu dữ liệu hàm không trả về giá trị nào");
+console.log("never never là một kiểu dữ liệu đại diện cho các giá trị mà không bao giờ xảy ra, thường sử dụng báo lỗi");
+const mess1 = () => {
+    console.log("hàm void");
+};
+mess1();
+const throwError = (message) => {
+    throw new Error(message);
+};
+throwError("Something went wrong.");
